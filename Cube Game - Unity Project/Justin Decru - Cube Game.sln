@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Justin Decru - Cube Game", "Justin Decru - Cube Game.csproj", "{F85AE254-5C86-E6E5-95FD-BF7E3D51430E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F85AE254-5C86-E6E5-95FD-BF7E3D51430E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F85AE254-5C86-E6E5-95FD-BF7E3D51430E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F85AE254-5C86-E6E5-95FD-BF7E3D51430E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F85AE254-5C86-E6E5-95FD-BF7E3D51430E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
